@@ -1,0 +1,15 @@
+﻿  lb4.cpp
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(180,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(53,1): warning C4091: : пропускается слева от "Massiv<char>", когда ни одна переменная не объявлена
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(50): message : во время компиляции функции-члена класс шаблон "void Massiv<char>::fill_Array_char(void)"
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(193): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Massiv<char>::fill_Array_char(void)"
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(192): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Massiv<char>"
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(41,1): warning C4091: : пропускается слева от "Massiv<double>", когда ни одна переменная не объявлена
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(40): message : во время компиляции функции-члена класс шаблон "void Massiv<double>::fill_Array_double(void)"
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(188): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Massiv<double>::fill_Array_double(void)"
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(187): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Massiv<double>"
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(31,1): warning C4091: : пропускается слева от "Massiv<int>", когда ни одна переменная не объявлена
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(30): message : во время компиляции функции-члена класс шаблон "void Massiv<int>::fill_Array_int(void)"
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(183): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Massiv<int>::fill_Array_int(void)"
+C:\Users\Илья\source\repos\lb4\lb4\lb4.cpp(182): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Massiv<int>"
+  lb4.vcxproj -> C:\Users\Илья\source\repos\lb4\Debug\lb4.exe

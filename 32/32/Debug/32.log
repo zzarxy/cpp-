@@ -1,0 +1,104 @@
+﻿  Source.cpp
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(177,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(206,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(393,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(393,21): error C2065: endl: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(407,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(492,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(497,8): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(497,18): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(497,33): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(497,47): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(508,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(513,8): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(513,18): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(513,33): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(513,47): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(535,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(577,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(628,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(633,7): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(633,17): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(633,31): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(633,45): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(644,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(649,7): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(649,17): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(649,31): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(649,45): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(670,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(675,2): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(704,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(708,4): error C2065: cout: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(710,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(710,11): error C2065: endl: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(729,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(739,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(739,16): error C2065: endl: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(746,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(774,7): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(785,7): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(787,14): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(802,2): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(810,11): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(814,2): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(822,11): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(841,21): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(846,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(850,18): error C2065: NULL: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(861,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(863,18): error C2065: NULL: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(881,12): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(898,21): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(903,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(907,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(909,18): error C2065: NULL: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(927,12): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(940,21): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(942,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(954,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(965,12): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(977,21): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(979,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(990,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1000,12): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1012,21): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1014,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1027,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1036,16): error C2065: NULL: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1040,8): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1047,12): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1076,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1092,8): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1104,12): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1107,8): error C2440: =: невозможно преобразовать "int" в "int *"
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1107,7): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1121,21): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1126,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1130,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1132,18): error C2065: NULL: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1150,12): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1154,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1156,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1156,21): error C2065: endl: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1170,26): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1170,21): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1175,27): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1175,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1177,10): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1179,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1181,18): error C2065: NULL: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1199,12): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1212,26): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1212,21): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1214,27): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1214,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1217,11): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1226,11): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1226,3): error C3861: _itoa_s: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1237,12): error C3861: atoi: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1249,26): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1249,21): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1251,27): error C2065: arr: необъявленный идентификатор
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1251,22): error C3861: size: идентификатор не найден
+C:\Users\Илья\source\repos\old\32\32\Source.cpp(1251,30): fatal error C1003: число ошибок превышает 100; остановка компиляции

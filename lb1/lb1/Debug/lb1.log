@@ -1,0 +1,6 @@
+﻿  lb1.cpp
+C:\Users\Илья\source\repos\lb1\lb1\lb1.cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Илья\source\repos\lb1\lb1\lb1.cpp(263,24): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Илья\source\repos\lb1\lb1\lb1.cpp(277,24): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Илья\source\repos\lb1\lb1\lb1.cpp(94): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  lb1.vcxproj -> C:\Users\Илья\source\repos\lb1\Debug\lb1.exe

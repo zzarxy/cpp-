@@ -1,0 +1,5 @@
+﻿  lb4_circle.cpp
+C:\Users\Илья\source\repos\lb4_circle\lb4_circle\lb4_circle.cpp(41,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Илья\source\repos\lb4_circle\lb4_circle\lb4_circle.cpp(56,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Илья\source\repos\lb4_circle\lb4_circle\lb4_circle.cpp(63,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lb4_circle.vcxproj -> C:\Users\Илья\source\repos\lb4_circle\Debug\lb3_circle.exe

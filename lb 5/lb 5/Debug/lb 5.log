@@ -1,0 +1,40 @@
+﻿  lb 5.cpp
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(7,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(7,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(7,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(24,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(24,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(24,20): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(46,15): error C2061: синтаксическая ошибка: идентификатор "bintree_node"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(50,17): error C2061: синтаксическая ошибка: идентификатор "bintree_node"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(54,16): error C2061: синтаксическая ошибка: идентификатор "bintree_node"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(58,7): error C2062: тип "int" не требуется
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(59,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(59,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(110,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(110,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(110,1): error C2086: int bintree_node: переопределение
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(7): message : см. объявление "bintree_node"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(110,37): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(110,39): error C2065: r: необъявленный идентификатор
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(111,1): error C2059: синтаксическая ошибка: {
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(111,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(111,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(227,14): error C2660: bintree_class::inorder: функция не принимает 1 аргументов
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(46,7): message : см. объявление "bintree_class::inorder"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(231,41): error C2761: "void bintree_class::inorder(void)": повторное объявление члена запрещено.
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(231,43): error C2065: ptr: необъявленный идентификатор
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(232,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(232,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(250,16): error C2660: bintree_class::postorder: функция не принимает 1 аргументов
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(50,7): message : см. объявление "bintree_class::postorder"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(254,43): error C2761: "void bintree_class::postorder(void)": повторное объявление члена запрещено.
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(254,45): error C2065: ptr: необъявленный идентификатор
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(255,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(255,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(272,15): error C2660: bintree_class::preorder: функция не принимает 1 аргументов
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(54,7): message : см. объявление "bintree_class::preorder"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(276,42): error C2761: "void bintree_class::preorder(void)": повторное объявление члена запрещено.
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(276,44): error C2065: ptr: необъявленный идентификатор
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(277,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Илья\source\repos\lb 5\lb 5\lb 5.cpp(277,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)

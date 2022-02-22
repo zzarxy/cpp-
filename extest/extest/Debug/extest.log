@@ -1,0 +1,4 @@
+﻿  extest.cpp
+C:\Users\Илья\source\repos\extest\extest\extest.cpp(35,12): warning C4930: Flower f(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\Илья\source\repos\extest\extest\extest.cpp(34,12): warning C4930: Garden g(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  extest.vcxproj -> C:\Users\Илья\source\repos\extest\Debug\extest.exe
